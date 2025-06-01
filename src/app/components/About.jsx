@@ -30,7 +30,7 @@ const AboutVariants2 = {
 }
 
 const About = () => {
-  const title = 'About Genesis coaching and fitness center'
+  const title = 'About Ilium Fitness and Barbell'
   const subtitle = 'About Us'
 
   const ref = useRef(null)
